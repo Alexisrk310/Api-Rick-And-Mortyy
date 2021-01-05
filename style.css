@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+/* Header */
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 190px;
+    width: 100vw;
+    background-color: aqua;
+
+}
+
+
+/* FIN DE HEADER */
+img{
+    max-width: 100%;
+}
+label{
+    
+    color: aliceblue;
+    margin: auto;
+}
+.content1{
+    height: 51vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.content2{
+    border: 5px solid #000000;
+    width: 310px;
+    height: 400px;
+    background-color: #000000;
+    margin: 15px;
+}
+.content{
+    display: flex;
+    
+    align-items: flex-end;
+    
+
+}
+
